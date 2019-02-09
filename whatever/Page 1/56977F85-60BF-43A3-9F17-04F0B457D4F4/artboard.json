@@ -27,6 +27,9 @@
     "x": -5,
     "y": 160
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -53,6 +56,10 @@
     {
       "class": "oval",
       "id": "B7BD54E7-B5CE-414B-BC06-6B545525B43E"
+    },
+    {
+      "class": "rectangle",
+      "id": "88A074A6-4FA0-4571-AE1C-4A3E76F740EB"
     }
   ],
   "name": "Artboard",
